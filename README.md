@@ -19,7 +19,7 @@ This Project analyzes the sales data of the Vrinda Store. The objective is to id
 2. Navigate through the different sheets for specific insights.
 3. Use filters and slicers to explore data interactively.
 
-## Installaction/Setup
+## Installation/Setup
 Clone the repository using the following command:
 '''bash
 git clone https://github.com/yourusername/vrinda-store-data-analysis.git
